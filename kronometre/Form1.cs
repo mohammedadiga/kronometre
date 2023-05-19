@@ -17,7 +17,7 @@ namespace kronometre
          *  mersin üniversitesi bilgisayar programcılığı
          *  Project Name : kronometre
          *  User: Mohamad Younes
-         *  GitHub: https://github.com/mohammedadiga
+         *  GitHub: https://github.com/mohammedadiga/kronometre
          */
 
         public Form1()
@@ -89,7 +89,7 @@ namespace kronometre
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Process.Start("https://github.com/mohammedadiga/XO_Game");
+            Process.Start("https://github.com/mohammedadiga/kronometre");
         }
     }
 }
