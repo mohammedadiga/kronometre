@@ -1,0 +1,13 @@
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\kronometre\kronometre\bin\Debug\kronometre.exe.config
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\kronometre\kronometre\bin\Debug\kronometre.exe
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\kronometre\kronometre\bin\Debug\kronometre.pdb
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\kronometre\kronometre\obj\Debug\kronometre.csproj.AssemblyReference.cache
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\kronometre\kronometre\obj\Debug\kronometre.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\kronometre\kronometre\obj\Debug\kronometre.Form1.resources
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\kronometre\kronometre\obj\Debug\kronometre.Properties.Resources.resources
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\kronometre\kronometre\obj\Debug\kronometre.csproj.GenerateResource.cache
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\kronometre\kronometre\obj\Debug\kronometre.csproj.CoreCompileInputs.cache
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\kronometre\kronometre\obj\Debug\kronometre.exe
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\kronometre\kronometre\obj\Debug\kronometre.pdb
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\kronometre\kronometre\bin\Debug\Guna.UI2.dll
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\kronometre\kronometre\obj\Debug\kronometre.csproj.CopyComplete
